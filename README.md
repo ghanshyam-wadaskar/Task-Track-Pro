@@ -29,3 +29,6 @@ Storage: localStorage for frontend data persistence.
 Outcome:
 
 Delivered a functional, user-friendly web application to simulate task management in a professional, industry-like environment.
+
+PassW: e@e.com
+admin@me.com
